@@ -1,0 +1,25 @@
+.titulo{color:rgb(159, 33, 159); 
+        background-color: rgb(143, 180, 79);
+        border: 10px solid;
+        height: 300px;;
+        width: 700px;
+        display: flex;
+        align-items: center;
+
+}
+
+body{background-color: rgb(67, 128, 128);
+}
+
+h2{color: rgb(255, 108, 59); background-color: antiquewhite;
+}
+
+.descrição{text-align: justify;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            font-size: 20px;
+            font-weight: 500;
+            line-height: 30px;
+            
+        
+}
+
